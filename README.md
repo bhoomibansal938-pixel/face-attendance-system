@@ -4,6 +4,9 @@ An attendance system that marks students present automatically by recognising th
 
 Developed by: Bhoomi bansal, RCEW
 
+![Dashboard screenshot](dashboard.png)
+
+
 ## Features
 
 - Real-time face detection and recognition using a webcam
